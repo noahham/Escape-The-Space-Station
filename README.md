@@ -1,6 +1,6 @@
 # Escape-The-Space-Station
 
-This is a text-based game created as a final project for AP Computer Science A
+This is a text-based game created as a final project for AP Computer Science A.
 
 You are an astronaut in an failing space station. Your objective? 
 Get. Out.
